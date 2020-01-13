@@ -1,0 +1,3 @@
+.LOG
+Site para icones
+https://fontawesome.com/icons?d=gallery
